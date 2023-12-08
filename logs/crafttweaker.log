@@ -1,0 +1,28 @@
+[10:43:23.556][INFO]: Successfully identified and loaded plugin crafttweaker:builtin
+[10:43:23.558][INFO]: Successfully identified and loaded plugin crafttweaker:builtin_forge
+[10:43:23.574][INFO]: Successfully identified and loaded plugin mekanism:crt_plugin
+[10:43:25.604][INFO]: The following mods have explicit CraftTweaker support through the default plugin:
+[10:43:25.604][INFO]: - 'crafttweaker' at version '9.1.210'
+[10:43:25.604][INFO]: - 'farmersdelight' at version '1.18.2-1.2.3'
+[10:43:25.604][INFO]: - 'mekanism' at version '10.2.5'
+[10:43:43.964][INFO]: Started loading scripts for loader 'mekanismcontent'
+[10:43:44.373][INFO]: Compiling and executing scripts
+[10:43:45.003][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
+[10:43:45.155][INFO]: Execution for loader 'mekanismcontent' completed successfully
+[10:43:45.156][INFO]: Registering 0 custom gases.
+[10:43:45.161][INFO]: Registering 0 custom infuse types.
+[10:43:45.165][INFO]: Registering 0 custom pigments.
+[10:43:45.167][INFO]: Registering 0 custom robit skins.
+[10:43:45.181][INFO]: Registering 0 custom slurries.
+[10:43:47.472][INFO]: Started loading scripts for loader 'initialize'
+[10:43:47.545][INFO]: Compiling and executing scripts
+[10:43:47.546][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[10:43:47.580][INFO]: Execution for loader 'initialize' completed successfully
+[10:44:06.592][INFO]: Started loading scripts for loader 'tags'
+[10:44:06.633][INFO]: Compiling and executing scripts
+[10:44:06.635][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[10:44:06.655][INFO]: Execution for loader 'tags' completed successfully
+[10:44:08.568][INFO]: Started loading scripts for loader 'crafttweaker'
+[10:44:08.615][INFO]: Compiling and executing scripts
+[10:44:08.807][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
+[10:44:08.821][INFO]: Execution for loader 'crafttweaker' completed successfully
